@@ -1,0 +1,65 @@
+html {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+element.style {
+    width: none;
+}
+
+body {
+    background-color: rgb(246, 244, 244);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+
+.box .title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.title-text {
+    display: inline;
+    color:rgb(54, 54, 54);
+}
+
+.box :where(textarea, input, select, button){
+    width: 100%;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0), 0 6px 6px rgba(0, 0, 0, 0.042);
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+    color:rgb(63, 63, 63);
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+textarea {
+    height: 30vh;
+}
+
+.box .options {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.options {
+    flex: 1;
+}
+
+.box .file-name {
+    width: 100%;
+    margin-right: 1.5rem;
+}
+
+input {
+    height: 1.55rem;
+}
+
+button {
+    margin-top: 1rem;
+}
+
