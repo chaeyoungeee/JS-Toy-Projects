@@ -10,7 +10,6 @@
 
 
 ## 2) Note Web App 
-
-![testing4](https://user-images.githubusercontent.com/102286483/216802000-dae43596-a639-4176-b661-e82bb44f2025.gif)
+![testing1](https://user-images.githubusercontent.com/102286483/216826258-177aac42-8e75-40cd-805d-9643641f69fa.gif)
 
 [Link](https://chaeyoungeee.github.io/Pratice-JS/Note-Web-App/index.html)
