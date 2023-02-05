@@ -12,4 +12,4 @@
 ## 2) Note Web App 
 ![testing3](https://user-images.githubusercontent.com/102286483/216801848-f2e333c4-1248-44c5-ab5b-def45e15395f.gif)
 <br>
-[Link](https://chaeyoungeee.github.io/Pratice-JS/Save-Text-As-File/index.html](https://chaeyoungeee.github.io/Pratice-JS/Note-Web-App/index.html)
+[Link](https://chaeyoungeee.github.io/Pratice-JS/Note-Web-App/index.html)
