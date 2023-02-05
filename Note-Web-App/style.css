@@ -5,9 +5,11 @@
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 body {
+    font-weight:300;
     background-color: rgb(246, 244, 244);
 }
 body .main-title {
+    font-weight: 200;
     position: fixed;
     top: -5rem;
     left: -7rem;
