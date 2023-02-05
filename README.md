@@ -1,4 +1,4 @@
-# JavaScript Toy Projects
+# JS Toy Projects
 [Main Page](https://chaeyoungeee.github.io/Pratice-JS/)
 
 
