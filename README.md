@@ -9,8 +9,7 @@
 [Link](https://chaeyoungeee.github.io/JS-Toy-Projects/Note-Web-App/index.html)
 
 ## 2) Save Text As File
-
-![testing](https://user-images.githubusercontent.com/102286483/216158452-9dac8df7-5cb5-484a-845f-e2572f0ec357.gif)
+![testing00](https://user-images.githubusercontent.com/102286483/216828629-158be279-32e4-42fd-bcb0-5e7fad553e1b.gif)
 
 [Link](https://chaeyoungeee.github.io/JS-Toy-Projects/Save-Text-As-File/index.html)
 
