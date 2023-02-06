@@ -30,7 +30,7 @@ function showNotes() {
     notes.forEach((note, index) => {
         let liTag = `<li class="note">
                         <div class="details">
-                            <p>${note.title}</p>
+                            <p>⌦ ${note.title}</p>
                             <span>${note.description}</span>
                         </div>
                         <div class="bottom-content">
